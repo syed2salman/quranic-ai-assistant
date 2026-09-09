@@ -1,0 +1,4 @@
+.env
+chroma_db/
+__pycache__/
+list_models.py
